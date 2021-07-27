@@ -1,0 +1,7 @@
+server:
+  port: 9999
+
+app:
+ jwt:
+  secreet: jwttesting
+  expired: 100000
